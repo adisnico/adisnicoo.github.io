@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página con Fondo</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: url('https://static.vecteezy.com/system/resources/previews/021/993/592/original/modern-cybersecurity-technology-background-with-padlock-vector.jpg') no-repeat center center/cover;
+            font-family: Arial, sans-serif;
+            color: white;
+            text-align: center;
+        }
+        h1 {
+            font-size: 3em;
+        }
+    </style>
+</head>
+<body>
+    <h1>Contraseña:ADIS2024</h1>
+</body>
+</html>
